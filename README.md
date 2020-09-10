@@ -8,7 +8,6 @@ Make sure you have installed:
 * NodeJs: Node version 12.13.1+ [(download)](https://nodejs.org/en/download)
 * IDE: [WebStorm](https://www.jetbrains.com/pt-br/webstorm/download) | [VSCode](https://code.visualstudio.com/download) | ... 
 * Cliente Git [(download)](https://git-scm.com/downloads)
-* Android SDK [(download)](https://developer.android.com/studio)
 
 ### Tech Details
 
