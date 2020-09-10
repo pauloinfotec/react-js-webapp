@@ -18,6 +18,8 @@ This project consumes a API using Axios.
 
 Open a command line window (terminal) and go to the project root directory and execute:
 
+npm install -g create-react-app
+npm install
 npm start
 
 ### Have a fun!
